@@ -1,0 +1,1 @@
+console.log("a b a".replaceAll("a", "x"));

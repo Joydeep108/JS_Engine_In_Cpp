@@ -15,6 +15,3 @@ tmp_tokens.exe
 node_modules/
 .DS_Store
 Thumbs.db
-
-# Excluded Folders
-tests/

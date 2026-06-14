@@ -1,0 +1,1 @@
+console.log("  hello  ".trim().toUpperCase().slice(0, 3));
