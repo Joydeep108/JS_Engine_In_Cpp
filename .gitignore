@@ -1,0 +1,20 @@
+# Compiled Binaries
+js_engine
+js_engine.exe
+*.exe
+*.o
+*.obj
+
+# Temporary Files & Artifacts
+project_file.md
+tmp_tokens.cpp
+tmp_tokens.exe
+.gemini/
+.idea/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Excluded Folders
+tests/
